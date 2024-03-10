@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#card1{
+    height: 155px;
+    width: 1872px;
+    background-color: rgb(0, 69, 133);
+    
+}
+
+body{
+    background-color: rgb(129, 129, 129);
+}
+
+#font{
+    font-size: 67px;
+    color: white;
+    margin-left: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#box{
+    height: 550px;
+    width: 1000px;
+    background-color: rgb(217, 217, 217);
+    border-radius: 12px;
+    margin-top: 120px;
+    margin-left: 390px;
+}
+
+#text1{
+    font-size: 40px;
+    color: black;
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 50px;
+  margin-left: 385px;
+}
+
+#text2{
+    font-size: 25px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+
+#sa{
+    height: 250px;
+    margin-left: 100px;
+    margin-top: -20px;
+
+}
+
+#tb{
+    height: 250px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+#text3{
+    font-size: 25px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  margin-top: 150px;
+  margin-left: 50px;
+}
+
+#alert{
+    height: 170px;
+    margin-left: 162px;
+    margin-top: 30px;
+}
+
+#py{
+    height: 260px;
+    margin-left: 162px;
+    margin-top: 0px; 
+}
